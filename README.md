@@ -1,4 +1,3 @@
-Here’s the README.md code for your project:
 
 # Factorial Calculator
 
@@ -53,14 +52,5 @@ Notes:
 	•	Input Validation: The input field only accepts positive integers. If you enter a non-integer or invalid number, an error message will be displayed.
 	•	Dark/Light Mode: The dark/light mode toggle uses icons from Font Awesome. Clicking the sun or moon icon will switch the theme.
 
-License:
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contributing:
-
-If you want to contribute to this project, feel free to fork the repository, make your changes, and create a pull request.
-
-Enjoy using the Factorial Calculator! 😄
-
-This **README.md** provides a complete overview of the project, how to use it, and its setup. You can replace the placeholder `your-username` with your GitHub username if you're hosting it on GitHub. Let me know if you need any more modifications!
