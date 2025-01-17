@@ -25,32 +25,5 @@ A simple and interactive **Factorial Calculator** web application built using **
 3. **View Result**: The calculated factorial will be displayed below, along with the method used.
 4. **Toggle Dark/Light Mode**: Use the button in the top-right corner to switch between dark and light modes for better visibility according to your preference.
 
-## Running the Application Locally:
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/factorial-calculator.git
-
-	2.	Navigate to the Project Directory:
-
-cd factorial-calculator
-
-
-	3.	Open the index.html File: Open the index.html file in your browser to run the app.
-	4.	Live Demo: You can also access a live demo of this application on GitHub Pages, Netlify, or another platform if deployed.
-
-File Structure:
-
-factorial-calculator/
-│
-├── index.html        # Main HTML file for the application
-├── styles.css        # Custom CSS file (using Tailwind CSS)
-├── script.js         # JavaScript file for logic and theme toggle
-├── README.md         # Project README file
-
-Notes:
-	•	Input Validation: The input field only accepts positive integers. If you enter a non-integer or invalid number, an error message will be displayed.
-	•	Dark/Light Mode: The dark/light mode toggle uses icons from Font Awesome. Clicking the sun or moon icon will switch the theme.
-
 
 
